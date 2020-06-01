@@ -12,6 +12,7 @@ public class EvenlySpaced {
 	 * @return boolean value for if the 3 values entered are evenly spaced
 	 */
 	public boolean evenlySpaced(int num1, int num2, int num3) {
+<<<<<<< HEAD
 		
 		if((num1 - num2 == num3 -num2) || (num2 - num1 == num3 - num2) ) {
 			return true;
@@ -21,5 +22,9 @@ public class EvenlySpaced {
 			return false;
 		}
 	
+=======
+		//TODO
+		return false;
+>>>>>>> 541ebfb4198924c1bf276c7a137076290a3190d6
 	}
 }
