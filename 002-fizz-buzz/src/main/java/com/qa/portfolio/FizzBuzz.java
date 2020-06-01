@@ -15,6 +15,5 @@ public class FizzBuzz {
 	 * @return "fizz", "buzz", "fizzbuzz" or numeric value as a string
 	 */
 	public String fizzBuzz(int number) {
-    	return "";
 	}
 }
